@@ -1,0 +1,5 @@
+{
+  "name": "Base Jase Sound Board",
+  "description": "A professional-grade custom soundboard application. Upload your own MP3s or generate custom text-to-speech audio clips using Gemini AI. Installable as a desktop application via PWA.",
+  "requestFramePermissions": []
+}
